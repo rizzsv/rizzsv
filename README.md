@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9333EA&center=true&vCenter=true&width=435&lines=Hi+👋%2C+I'm+Valeant;Backend+Developer;From+Indonesia;Always+learning+new+things!" alt="Typing SVG" />
 </div>
@@ -31,11 +30,11 @@
 const valeant = {
     pronouns: "He/Him",
     location: "Indonesia 🇮🇩",
-    currentFocus: ["Backend Development", "Node.js", "React"],
-    languages: ["JavaScript", "TypeScript", "Go", "Java", "C++"],
+    currentFocus: ["Backend Development", "Node.js", "React", "Laravel"],
+    languages: ["JavaScript", "TypeScript", "Go", "Java", "C++", "PHP"],
     databases: ["MongoDB", "MySQL", "PostgreSQL"],
     tools: ["Docker", "Git", "Postman", "Figma"],
-    askMeAbout: ["JavaScript", "TypeScript", "Backend Architecture"],
+    askMeAbout: ["JavaScript", "TypeScript", "Backend Architecture", "Laravel"],
     funFact: "I debug with console.log() and I'm not ashamed! 😄"
 };
 ```
@@ -62,6 +61,7 @@ const valeant = {
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
 ### 🚀 Frameworks & Libraries
@@ -69,6 +69,7 @@ const valeant = {
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
 </p>
