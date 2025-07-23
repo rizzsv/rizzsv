@@ -14,7 +14,12 @@
   <img src="https://komarev.com/ghpvc/?username=rizzsv&color=blueviolet&style=flat-square&label=Profile+Views" />
   <img src="https://img.shields.io/github/followers/rizzsv?style=flat-square&color=blue&label=Followers" />
   <img src="https://img.shields.io/github/stars/rizzsv?style=flat-square&color=yellow&label=Stars" />
+  <img src="https://img.shields.io/github/license/rizzsv/rizzsv?style=flat-square" />
+  <img src="https://img.shields.io/github/last-commit/rizzsv/rizzsv?style=flat-square" />
+  <img src="https://img.shields.io/github/repo-size/rizzsv/rizzsv?style=flat-square" />
+  <img src="https://img.shields.io/github/languages/count/rizzsv/rizzsv?style=flat-square" />
 </p>
+
 
 ---
 
