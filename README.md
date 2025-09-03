@@ -141,7 +141,7 @@ const valeant = {
 </div>
 
 <div align="center">
-  <h3>💫 "Code is like humor. When you have to explain it, it's bad." 💫</h3>
+  <h3>💫 "Code is like humor. When you have to explain it, it's bad!" 💫</h3>
   <p>
     <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
     <br>
